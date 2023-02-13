@@ -1,0 +1,36 @@
+/*
+*{
+  border:solid 1px gray;
+}
+*/
+.pink{
+    color:#FF69B4;
+  }
+  .green{color:#ADFF2F;}
+  .blue{color:#1E90FF;}
+  .red{color:#FA8072;}
+  .list-group{
+    font-size:1.5rem;
+  }
+  .show {
+    display: block;
+  }
+  .hide {
+    display: none;
+  }
+  
+
+
+  /* new back style  */
+
+
+
+  .greens {
+    color: #198754 !important;
+}
+.text_dr{
+text-decoration-line: line-through;
+font-weight: bold;
+/* background-color: #FA8072; */
+color: blue;
+}
